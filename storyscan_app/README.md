@@ -1,0 +1,1 @@
+Assets for Story Validator Page(https://storyscan.app/)
